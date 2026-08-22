@@ -1,6 +1,3 @@
-这是中文版，所有链接都改成了超链接格式：
-
-```markdown
 <div align="center">
   <img src="https://raw.githubusercontent.com/NovaFlare-Engine-Concentration/NovaFlare-Engine.github.io/refs/heads/main/images/logo2.png" width="380" alt="NovaFlare Icon">
   <br/>
