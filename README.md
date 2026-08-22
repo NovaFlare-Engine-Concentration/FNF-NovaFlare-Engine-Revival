@@ -2,30 +2,14 @@
   <img src="https://raw.githubusercontent.com/NovaFlare-Engine-Concentration/NovaFlare-Engine.github.io/refs/heads/main/images/logo2.png" width="380" alt="NovaFlare Icon">
   <br/>
   <h1 align="center">Friday Night Funkin' - NovaFlare Engine</h1>
-  <p align="center"><b>✦ Revival | 复兴计划 ✦</b></p>
+  <p align="center"><b>✦ Revival ✦</b></p>
   <p align="center">A Psych-based engine originally built for the VS Camellia fanmade, focused on optimisation and performance for the best possible experience. Later shifted to support modular design.</p>
   
   <br/>
   
-  <a href="#中文版本">
-    <img src="https://img.shields.io/badge/中文版本-2d333b?style=for-the-badge&labelColor=1e6f5c" alt="中文版本">
-  </a>
-  <a href="#english-version">
-    <img src="https://img.shields.io/badge/English_Version-2d333b?style=for-the-badge&labelColor=1e6f5c" alt="English Version">
-  </a>
-  
-  <br/>
-  
-  <img src="https://img.shields.io/github/v/release/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine?style=for-the-badge&color=1e6f5c" alt="Release">
-  <img src="https://img.shields.io/github/repo-size/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine?style=for-the-badge&color=1e6f5c" alt="Repo Size">
-  <img src="https://img.shields.io/github/downloads/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine/total?style=for-the-badge&color=1e6f5c" alt="Downloads">
-  <img src="https://img.shields.io/github/commit-activity/m/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine?style=for-the-badge&color=1e6f5c" alt="Commit Activity">
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Haxe-4.3.7-1e6f5c?style=for-the-badge" alt="Haxe 4.3.7">
-  <img src="https://img.shields.io/badge/Lime-1e6f5c?style=for-the-badge" alt="Lime">
-  <img src="https://img.shields.io/badge/FNF_Modding-1e6f5c?style=for-the-badge" alt="FNF Modding">
+  <h2 align="center">
+    <a href="README-ZH.md">中文版本</a>
+  </h2>
 </div>
 
 <br/>
@@ -159,14 +143,13 @@ lime test windows
 
 ## Special Notes
 
-- Some older builds may require specific Haxe or Lime versions — check the release notes.
-- The Revival version uses a newer Lime backend, which unlocks additional FPS options.
+- The Revival version uses a newer Lime backend, which unlocks additional options.
 - All revival builds aim to preserve the original experience while fixing compatibility issues.
 
 ---
 
 <div align="center">
   <sub>
-    Built with love by the NovaFlare Team
+    Made with love by the NovaFlare Team
   </sub>
 </div>

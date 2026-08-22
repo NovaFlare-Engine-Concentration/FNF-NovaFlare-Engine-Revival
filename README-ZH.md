@@ -4,28 +4,6 @@
   <h1 align="center">Friday Night Funkin' - NovaFlare Engine</h1>
   <p align="center"><b>✦ Revival | 复兴计划 ✦</b></p>
   <p align="center">基于 Psych 引擎，最初用于 VS Camellia 同人作，专注于优化和性能，为玩家提供最佳体验。后来转向支持模块化。</p>
-  
-  <br/>
-  
-  <a href="#中文版本">
-    <img src="https://img.shields.io/badge/中文版本-2d333b?style=for-the-badge&labelColor=1e6f5c" alt="中文版本">
-  </a>
-  <a href="#english-version">
-    <img src="https://img.shields.io/badge/English_Version-2d333b?style=for-the-badge&labelColor=1e6f5c" alt="English Version">
-  </a>
-  
-  <br/>
-  
-  <img src="https://img.shields.io/github/v/release/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine?style=for-the-badge&color=1e6f5c" alt="Release">
-  <img src="https://img.shields.io/github/repo-size/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine?style=for-the-badge&color=1e6f5c" alt="Repo Size">
-  <img src="https://img.shields.io/github/downloads/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine/total?style=for-the-badge&color=1e6f5c" alt="Downloads">
-  <img src="https://img.shields.io/github/commit-activity/m/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine?style=for-the-badge&color=1e6f5c" alt="Commit Activity">
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Haxe-4.3.7-1e6f5c?style=for-the-badge" alt="Haxe 4.3.7">
-  <img src="https://img.shields.io/badge/Lime-1e6f5c?style=for-the-badge" alt="Lime">
-  <img src="https://img.shields.io/badge/FNF_Modding-1e6f5c?style=for-the-badge" alt="FNF Modding">
 </div>
 
 <br/>
@@ -159,8 +137,7 @@ lime test windows
 
 ## 特别说明
 
-- 某些老版本可能需要特定的 Haxe 或 Lime 版本 —— 请查看 Release 说明。
-- 复兴版本使用了更新的 Lime 后端，因此解锁了额外的 FPS 选项。
+- 复兴版本使用了更新的 Lime 后端，因此解锁了额外的选项。
 - 所有复兴构建都旨在保留原始体验，同时修复兼容性问题。
 
 ---
