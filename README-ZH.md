@@ -61,7 +61,6 @@ haxelib run hmm install
 
 ```bash
 curl -# -O https://download.visualstudio.microsoft.com/download/pr/3105fcfe-e771-41d6-9a1c-fc971e7d03a7/8eb13958dc429a6e6f7e0d6704d43a55f18d02a253608351b6bf6723ffdaf24e/vs_Community.exe
-echo 正在安装 Visual Studio 组件（可能需要一段时间）...
 vs_Community.exe --add Microsoft.VisualStudio.Component.VC.Tools.x86.x64 --add Microsoft.VisualStudio.Component.Windows10SDK.19041 -p --wait --quiet
 del vs_Community.exe
 ```
@@ -134,6 +133,7 @@ lime test windows
 **复兴下载地址：** [V1.0.1-Revival](https://github.com/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine-1.0.1-Revival/releases/tag/V1.0.1-Revival)
 
 ---
+
 ### NovaFlare-V1.1.0-Beta-1
 
 **原始发布日期：** 2023年9月19日  
@@ -141,6 +141,16 @@ lime test windows
 
 **复兴构建日期：** 2026年8月24日  
 **复兴下载地址：** [V1.1.0-beta-1-Revival](https://github.com/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine-1.1.0-beta-1-Revival/releases/tag/V1.1.0-beta-1)
+
+---
+
+### NovaFlare-V1.1.0-Beta-2
+
+**原始发布日期：** 2023年10月11日  
+**原始下载地址：** [1.1.0-beta-2](https://github.com/beihu235/NovaFlare-Engine-V1.1.0-oldBase/releases/tag/beta-2)
+
+**复兴构建日期：** 2026年8月24日  
+**复兴下载地址：** [V1.1.0-beta-2-Revival](https://github.com/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine-1.1.0-beta-2-Revival/releases/tag/V1.1.0-beta-2-Revival)
 
 ---
 
