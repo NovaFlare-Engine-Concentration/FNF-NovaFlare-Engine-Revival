@@ -154,6 +154,16 @@ lime test windows
 
 ---
 
+### NovaFlare-V1.1.0-Beta-3
+
+**原始发布日期：** 2024年1月19日  
+**原始下载地址：** [1.1.0-beta-3](https://github.com/beihu235/NovaFlare-Engine-V1.1.0-oldBase/releases/tag/beta-3)
+
+**复兴构建日期：** 2026年8月25日  
+**复兴下载地址：** [V1.1.0-beta-3-Revival](https://github.com/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine-1.1.0-beta-2-Revival/releases/tag/V1.1.0-beta-3-Revival)
+
+---
+
 ## 特别说明
 
 - 复兴版本使用了更新的 Lime 后端，因此解锁了额外的选项。

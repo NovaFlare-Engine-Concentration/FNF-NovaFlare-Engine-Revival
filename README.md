@@ -160,6 +160,16 @@ lime test windows
 
 ---
 
+### NovaFlare-V1.1.0-Beta-3
+
+**Original Release Date:** January 19, 2024  
+**Original Download Link:** [1.1.0-beta-3](https://github.com/beihu235/NovaFlare-Engine-V1.1.0-oldBase/releases/tag/beta-3)
+
+**Revival Build Date:** August 25, 2026  
+**Revival Download Link:** [V1.1.0-beta-3-Revival](https://github.com/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine-1.1.0-beta-2-Revival/releases/tag/V1.1.0-beta-3-Revival)
+
+---
+
 ## Special Notes
 
 - The Revival version uses a newer Lime backend, which unlocks additional options.
